@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Cyber Dawn",
+    "category": "赛博",
+    "style": "科技感",
+    "resolution": "2160x3840",
+    "description": "城市夜色与赛博光线交织，适合深色模式桌面和沉浸式视觉体验。",
+    "preview": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["科技", "夜景", "赛博", "炫彩"]
+  },
+  {
+    "id": 2,
+    "title": "Aurora Drift",
+    "category": "自然",
+    "style": "极光",
+    "resolution": "1920x1080",
+    "description": "清澈的极光色带在空中流动，适合桌面和平板大屏环境。",
+    "preview": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["极光", "自然", "夜空", "梦幻"]
+  },
+  {
+    "id": 3,
+    "title": "Neon City",
+    "category": "城市",
+    "style": "霓虹",
+    "resolution": "2560x1440",
+    "description": "霓虹灯与建筑轮廓在夜晚形成强烈对比，适合高亮度的视觉展示。",
+    "preview": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["城市", "霓虹", "夜游", "时尚"]
+  },
+  {
+    "id": 4,
+    "title": "Ocean Pulse",
+    "category": "海洋",
+    "style": "流动",
+    "resolution": "2160x3840",
+    "description": "海浪与光影的柔和运动让屏幕看起来像一幅动态海报。",
+    "preview": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["海洋", "波浪", "清凉", "流动"]
+  },
+  {
+    "id": 5,
+    "title": "Sunset Rush",
+    "category": "生活",
+    "style": "温暖",
+    "resolution": "1920x1080",
+    "description": "暮色下的城市与云朵在柔和光线中融合，适合温暖的生活感。",
+    "preview": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["日落", "温暖", "城市", "生活"]
+  },
+  {
+    "id": 6,
+    "title": "Forest Echo",
+    "category": "自然",
+    "style": "静谧",
+    "resolution": "2560x1440",
+    "description": "森林中的光影与静谧感构成自然、放松的桌面氛围。",
+    "preview": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["森林", "自然", "静谧", "治愈"]
+  },
+  {
+    "id": 7,
+    "title": "Solar Bloom",
+    "category": "抽象",
+    "style": "渐变",
+    "resolution": "2160x3840",
+    "description": "将色彩层层叠加，形成抽象的柔和渐变流体效果，适合设备锁屏。",
+    "preview": "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["抽象", "渐变", "流体", "炫彩"]
+  },
+  {
+    "id": 8,
+    "title": "Snow Drift",
+    "category": "冬季",
+    "style": "极简",
+    "resolution": "2160x3840",
+    "description": "雪地与清晨光线形成冷静而简洁的视觉，适合极简风格用户。",
+    "preview": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["雪景", "冬季", "极简", "清晨"]
+  },
+  {
+    "id": 9,
+    "title": "Lunar Waves",
+    "category": "梦境",
+    "style": "夜色",
+    "resolution": "2560x1440",
+    "description": "月色与水波在深夜中产生空灵浪漫，适合夜间桌面与平板壁纸。",
+    "preview": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["月亮", "夜色", "梦境", "浪漫"]
+  },
+  {
+    "id": 10,
+    "title": "Electric Bloom",
+    "category": "赛博",
+    "style": "发光",
+    "resolution": "1920x1080",
+    "description": "彩色光线像花朵般绽放，适合给设备带来强烈但不失优雅的视觉冲击。",
+    "preview": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+    "download": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80",
+    "tags": ["发光", "赛博", "色彩", "潮流"]
+  }
+]
